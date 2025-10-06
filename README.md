@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:8E44AD&height=200&section=header&text=Hi%20👋,%20I'm%20Saniya%20Fatima&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 ## 🚀 About Me  
-💻 Software Developer Intern @ **24/7 Software**  
+💻 Assosicate Software Engineer @ **24/7 Software**  
 📱 Passionate about **mobile app development** (Flutter, Kotlin, Jetpack Compose)  
 ⚡ I turn ☕ into code and bugs into features (sometimes intentionally 😉)  
 
